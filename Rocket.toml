@@ -1,0 +1,2 @@
+[global.databases]
+hello = { url = "postgres://postgres:postgres@localhost/nemo" }
